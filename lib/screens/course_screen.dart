@@ -1,6 +1,6 @@
-import 'package:education_app/constants/color.dart';
-import 'package:education_app/models/course.dart';
-import 'package:education_app/screens/details_screen.dart';
+import 'package:elearning_app/constants/color.dart';
+import 'package:elearning_app/models/course.dart';
+import 'package:elearning_app/screens/details_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 

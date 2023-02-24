@@ -1,7 +1,7 @@
-import 'package:education_app/constants/color.dart';
-import 'package:education_app/constants/icons.dart';
-import 'package:education_app/constants/size.dart';
-import 'package:education_app/screens/featuerd_screen.dart';
+import 'package:elearning_app/constants/color.dart';
+import 'package:elearning_app/constants/icons.dart';
+import 'package:elearning_app/constants/size.dart';
+import 'package:elearning_app/screens/featuerd_screen.dart';
 import 'package:flutter/material.dart';
 
 class BaseScreen extends StatefulWidget {
